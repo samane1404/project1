@@ -1,0 +1,34 @@
+27-Sep-21 11:14:29 - root - INFO  - One person intends to register as a student! 
+27-Sep-21 11:14:36 - root - WARNING  - a person entered nothing username for registering as a student ! 
+27-Sep-21 11:14:53 - root - WARNING  - a person entered the wrong re_password for registering as a student ! 
+27-Sep-21 11:14:58 - root - INFO  - One person successfully registered as student! 
+27-Sep-21 11:15:16 - root - INFO  - One person intends to register as a education responsible! 
+27-Sep-21 11:15:35 - root - INFO  - One person successfully registered as education responsible! 
+27-Sep-21 11:15:57 - root - INFO  - One person intends to register as a student! 
+27-Sep-21 11:16:02 - root - WARNING  - a person entered nothing username for registering as a student ! 
+27-Sep-21 11:16:19 - root - INFO  - One person successfully registered as student! 
+27-Sep-21 11:16:23 - root - INFO  - One person intends to register as a education responsible! 
+27-Sep-21 11:16:45 - root - INFO  - One person successfully registered as education responsible! 
+27-Sep-21 11:17:24 - root - INFO  - One person intends to register as a student! 
+27-Sep-21 11:17:50 - root - WARNING  - a person entered nothing username for registering as a student ! 
+27-Sep-21 11:18:05 - root - INFO  - One person successfully registered as student! 
+27-Sep-21 11:18:11 - root - INFO  - One person intends to register as a student! 
+27-Sep-21 11:18:33 - root - WARNING  - a person entered nothing username for registering as a student ! 
+27-Sep-21 11:18:50 - root - INFO  - One person successfully registered as student! 
+27-Sep-21 11:18:52 - root - INFO  - One person intends to register as a education responsible! 
+27-Sep-21 11:19:18 - root - WARNING  - a person entered wrong password for registering as a education responsible ! 
+27-Sep-21 11:19:26 - root - WARNING  - a person entered wrong password for registering as a education responsible ! 
+27-Sep-21 11:19:57 - root - INFO  - One person successfully registered as education responsible! 
+27-Sep-21 11:20:00 - root - INFO  - One person intends to register as a education responsible! 
+27-Sep-21 11:20:24 - root - INFO  - One person successfully registered as education responsible! 
+27-Sep-21 11:20:34 - root - INFO  - One person intends to login as a student! 
+27-Sep-21 11:20:38 - root - WARNING  - a person entered wrong username for logging in as a student ! 
+27-Sep-21 11:20:50 - root - WARNING  - a person entered wrong password for logging in as a student ! 
+27-Sep-21 11:21:11 - root - INFO  - One person successfully log in as student! 
+27-Sep-21 11:22:28 - root - INFO  - One person intends to login as a student! 
+27-Sep-21 11:22:36 - root - INFO  - One person successfully log in as student! 
+27-Sep-21 11:22:54 - root - INFO  - One person intends to login as a education responsible! 
+27-Sep-21 11:23:43 - root - INFO  - One person successfully log in as education responsible! 
+27-Sep-21 11:24:24 - root - INFO  - One person intends to login as a education responsible! 
+27-Sep-21 11:24:34 - root - INFO  - One person successfully log in as education responsible! 
+27-Sep-21 11:24:55 - root - INFO  - education responsible entered new lesson! 
